@@ -1,0 +1,17 @@
+{
+    "threads": 4,
+    "digitalMark": {
+        "enabled": false,
+        "key": "Z8Zpc1H/Suwpzbqr8vvjRnzCVPgb6OeNdlouYzOfyZp0aW9u"
+    },
+    "fec": true,
+    "logs": {
+        "severity": 6,
+        "filename": "shadow.log"
+    },
+    "markBase": 6,
+    "imPower": 0.028,
+    "removeIncrements": true,
+    "rasterQualityFactor": 95,
+    "scoreThreshold": 0.5
+}
